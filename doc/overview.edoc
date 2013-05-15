@@ -1,0 +1,3 @@
+
+@author Rubber Cthulhu <rubber.cthulhu@gmail.com>
+@doc <em>uintvar</em> - enconding and decoding API for variable-length unsigned integer (or simply uintvar).

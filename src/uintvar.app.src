@@ -1,0 +1,11 @@
+
+{application, uintvar, [
+	      {description, ""},
+	      {vsn, "1"},
+	      {modules, [uintvar]},
+	      {registered, []},
+	      {applications, [kernel, stdlib]}
+]}.
+
+
+
